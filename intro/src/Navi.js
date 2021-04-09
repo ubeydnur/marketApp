@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import CartSummary from "./CartSummary";
 import {
     Collapse,
     Navbar,
@@ -23,12 +24,7 @@ const Navi = (props) => {
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
-                        <NavItem>
-                            <NavLink href="https://github.com/ubeydnur/">
-                                GitHub
-                            </NavLink>
-                        </NavItem>
-                        <CartSummary cart={props.cart}/>
+                        <CartSummary removeFromCart={props.removeFromCart} cart={props.cart}/>
                     </Nav>
                 </Collapse>
             </Navbar>
