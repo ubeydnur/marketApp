@@ -9,4 +9,5 @@ React'ta öğrendiklerimi tek bir projede uyguladım.
 
 Uyarı mesajlarımı [alertifyjs](https://alertifyjs.com/) kullanarak oluşturdum
 
-
+---  
+![gif](readme.gif)
