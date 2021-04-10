@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/marketApp/static/js/main.990ad107.chunk.js",
+    "main.js.map": "/marketApp/static/js/main.990ad107.chunk.js.map",
+    "runtime-main.js": "/marketApp/static/js/runtime-main.56301cf5.js",
+    "runtime-main.js.map": "/marketApp/static/js/runtime-main.56301cf5.js.map",
+    "static/css/2.8e748ecd.chunk.css": "/marketApp/static/css/2.8e748ecd.chunk.css",
+    "static/js/2.3592de4c.chunk.js": "/marketApp/static/js/2.3592de4c.chunk.js",
+    "static/js/2.3592de4c.chunk.js.map": "/marketApp/static/js/2.3592de4c.chunk.js.map",
+    "static/js/3.ed02bf70.chunk.js": "/marketApp/static/js/3.ed02bf70.chunk.js",
+    "static/js/3.ed02bf70.chunk.js.map": "/marketApp/static/js/3.ed02bf70.chunk.js.map",
+    "index.html": "/marketApp/index.html",
+    "static/css/2.8e748ecd.chunk.css.map": "/marketApp/static/css/2.8e748ecd.chunk.css.map",
+    "static/js/2.3592de4c.chunk.js.LICENSE.txt": "/marketApp/static/js/2.3592de4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56301cf5.js",
+    "static/css/2.8e748ecd.chunk.css",
+    "static/js/2.3592de4c.chunk.js",
+    "static/js/main.990ad107.chunk.js"
+  ]
+}
