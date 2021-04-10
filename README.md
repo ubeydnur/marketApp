@@ -1,6 +1,4 @@
 # marketApp  
----    
-[Click to see](https://ubeydnur.github.io/marketApp/)
 ---  
 React'ta öğrendiklerimi tek bir projede uyguladım.  
 ---
