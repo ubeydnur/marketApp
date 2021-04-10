@@ -5,7 +5,7 @@ React'ta öğrendiklerimi tek bir projede uyguladım.
 
 [reactstrap](https://reactstrap.github.io/) 'in grit yapısından, form, button gibi css özelliklerini kullandım.  
 
-[JSON Server](https://github.com/typicode/json-server)  projesini kullanarak kendi oluşturduğum [db.json](marketApp/api/dbjson) dosyamı kullandım.  
+[JSON Server](https://github.com/typicode/json-server)  projesini kullanarak kendi oluşturduğum [db.json](https://github.com/ubeydnur/marketApp/blob/main/api/db.json) dosyamı kullandım.  
 
 Uyarı mesajlarımı [alertifyjs](https://alertifyjs.com/) kullanarak oluşturdum
 
