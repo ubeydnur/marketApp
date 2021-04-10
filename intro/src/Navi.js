@@ -20,7 +20,7 @@ const Navi = (props) => {
         <div>
             <Navbar color="light" light expand="md">
                 <NavbarBrand href="/">
-                    Northwind App
+                    Market App
                 </NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>

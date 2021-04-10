@@ -19,8 +19,8 @@ export default class CategoryList extends Component {
     render() {
         return (
             <div>
-                <h1>{this.props.info.title}</h1>
-                <ListGroup>
+                <h1 className="text-danger" >{this.props.info.title}</h1>
+                <ListGroup className="mt-5">
                     {this.state.categories.map(category => (
                         <ListGroupItem active={category.categoryName===this.props.currentCategory?true:false}
                             onClick={() => this.props.changeCategory(category)} 

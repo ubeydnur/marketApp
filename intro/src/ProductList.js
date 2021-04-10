@@ -6,8 +6,8 @@ export default class ProductList extends Component {
     render() {
         return (
             <div>
-                <h1 className="text-center">{this.props.info.title}-{this.props.currentCategory}</h1>
-                <Table>
+                <h1 className="text-center text-danger">{this.props.info.title}-{this.props.currentCategory}</h1>
+                <Table className="mt-5">
                     <thead>
                         <tr>
                             <th>#</th>
