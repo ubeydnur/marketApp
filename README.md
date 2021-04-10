@@ -7,7 +7,7 @@ React'ta öğrendiklerimi tek bir projede uyguladım.
 
 [JSON Server](https://github.com/typicode/json-server)  projesini kullanarak kendi oluşturduğum [db.json](https://github.com/ubeydnur/marketApp/blob/main/api/db.json) dosyamı kullandım.  
 
-Uyarı mesajlarımı [alertifyjs](https://alertifyjs.com/) kullanarak oluşturdum
+Uyarı mesajlarımı [alertifyjs](https://alertifyjs.com/) kullanarak oluşturdum.
 
 ---  
 ![gif](readme.gif)
