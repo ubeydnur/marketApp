@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import CartSummary from "./CartSummary";
+import {Link} from 'react-router-dom'
 import {
     Collapse,
     Navbar,
@@ -24,6 +25,16 @@ const Navi = (props) => {
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
+                        <NavItem>
+                            <NavLink>
+                            <Link to="/form1/">Form Demo 1</Link>
+                            </NavLink>
+                        </NavItem>
+                        <NavItem>
+                            <NavLink>
+                            <Link to="/form2/">Form Demo 2</Link>
+                            </NavLink>
+                        </NavItem>
                         <CartSummary removeFromCart={props.removeFromCart} cart={props.cart}/>
                     </Nav>
                 </Collapse>
