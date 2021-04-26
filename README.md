@@ -11,4 +11,11 @@ React'ta öğrendiklerimi tek bir projede uyguladım.
 Uyarı mesajlarımı [alertifyjs](https://alertifyjs.com/) kullanarak oluşturdum.
 
 ---  
+
+### Proje Nasıl Çalıştırılır
+
+- Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde `npm install` komutu ile gerekli paketlerin yüklenmesi gerekiyor.
+- API ye bağlanmak için `json-server --watch api/db.json --port 3002`
+- Daha sonra `npm start` komutu ile uygulama başlatılabilir.
+
 ![gif](readme.gif)
